@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881197146944",
+    "project_id": "dm-backend-character-selection",
+    "storage_bucket": "dm-backend-character-selection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881197146944:android:a17f70b8d49d32275790a5",
+        "android_client_info": {
+          "package_name": "com.example.cwselection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881197146944-qa5n2gk9s264gt5f894b7cmt7msnf420.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcMf_V6wL_D7KhOf3mk2g_bWHeYOq6ZMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881197146944-qa5n2gk9s264gt5f894b7cmt7msnf420.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
